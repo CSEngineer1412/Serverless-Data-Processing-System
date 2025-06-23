@@ -120,3 +120,9 @@ Lambda processes file
 
 SNS sends email notification
 
+
+
+**FOR Reference:**
+
+https://medium.com/@aakashrana7/automating-s3-event-notifications-using-aws-lambda-and-sns-for-real-time-alerts-6379f69b9d11
+
